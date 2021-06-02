@@ -31,6 +31,12 @@
             energy, and data, in heterogeneous wireless systems.</li>
         </ul>
       </div>
+      <div class="recruiting">
+        <div class="head2">Openings</div>
+        <div class="info">
+          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2022.</div>
+        </div>
+      </div>
       <div class="cv">
         <div class="head2">CV</div>
         <div class="cvInfo">
@@ -137,6 +143,27 @@
            </div>
         </div>
       </div>
+      <div class="acitivities">
+
+        <div class="head2">Professional Acitivities</div>
+        <div class="subTitle">
+          Recent TPC activities:
+        </div>
+        <div class="content">
+          <ul class="c">
+            <li>2021 - ICDCS, TON</li>
+          </ul>
+        </div>
+        <div class="subTitle">
+          Recent Conference Origanizers:
+        </div>
+        <div class="content">
+          <ul class="c">
+            <li></li>
+          </ul>
+        </div>
+      </div>
+      <div class="bottom"></div>
     </div>
     <div class="otherSmall" v-else>
       <div class="basic">
@@ -160,6 +187,12 @@
             energy, and data, in heterogeneous wireless systems.</li>
         </ul>
       </div>
+      <div class="recruiting">
+        <div class="head2">Openings</div>
+        <div class="info">
+          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2022.</div>
+        </div>
+      </div>
       <div class="cv">
         <div class="head2">CV</div>
         <div class="cvInfo">
@@ -266,6 +299,26 @@
            </div>
         </div>
       </div>
+      <div class="acitivities">
+        <div class="head2">Professional Acitivities</div>
+        <div class="subTitle">
+          Recent TPC activities:
+        </div>
+        <div class="content">
+          <ul class="c">
+            <li>2021 - ICDCS, TON</li>
+          </ul>
+        </div>
+        <div class="subTitle">
+          Recent Conference Origanizers:
+        </div>
+        <div class="content">
+          <ul class="c">
+            <li></li>
+          </ul>
+        </div>
+        </div>
+      <div class="bottom"></div>
     </div>
   </div>
 </template>
@@ -369,6 +422,9 @@ img{
 .interests{
   margin-top: 45px;
 }
+.recruiting{
+  margin-top: 45px;
+}
 ul.a{
   list-style-type:square;
   margin-top: 0px;
@@ -396,6 +452,9 @@ ul.b{
   /* background-color: aquamarine; */
 }
 .publications{
+  margin-top: 45px;
+}
+.acitivities{
   margin-top: 45px;
 }
 .subTitle{
@@ -427,6 +486,11 @@ ol.c{
   margin-left: 15px;
   /* background-color: cadetblue; */
   width: 50%;
+}
+.bottom{
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
 }
 a:link {color:rgb(8, 53, 177);}      /* 未访问链接*/
 a:visited {color:rgb(8, 53, 177);}  /* 已访问链接 */
