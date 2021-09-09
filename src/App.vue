@@ -66,6 +66,10 @@
         </div>
         <div class="content">
           <ol class="c">
+              <li>[ICNP'21]  <b>Zhimeng Yin</b>, Kai Sun, Weiwei Chen, Shuai Wang, Zeyu Zhang, and Tian He, "Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks",
+                in Proc. of the 29th International Conference on Network Protocols.</li>
+              <li>[ICNP'20]  <b>Zhimeng Yin</b>, Bin Hu, Shuai Wang, Zhuqing Xu, and Tian He, "SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions",
+                in Proc. of the 28th International Conference on Network Protocols.</li>
               <li>[ICDCS'20] <b>Zhimeng Yin</b>, Wenchao Jiang, Ruofeng Liu, Song Min Kim, and Tian He, "SafetyNet: Interference Protection via Transparent PHY Layer Coding", 
                 accepted by 40th IEEE International Conference on Distributed Computing Systems.</li>
               <li>[MobiSys'18] <b>Zhimeng Yin</b>, Zhijun Li, Song Min Kim, and Tian He, "Explicit Channel Coordination via Cross-technology Communication", 
@@ -74,6 +78,8 @@
                 in Proc. of the IEEE International Conference on Computer Communications.<a href="https://drive.google.com/open?id=1WcCAkuzyttSE6Lvp5bljeQPSM2Vjubwi" target="_blank">[PDF]</a></li>
               <li>[INFOCOM'20] Zhuqing Xu, Junzhou Luo, <b>Zhimeng Yin</b>, Tian He, and Fang Dong, "S-MAC: Achieving High Scalability via Adaptive Scheduling in LPWAN", 
                 in Proc. of the IEEE International Conference on Computer Communications.</li>
+              <li>[SenSys'21] Shangyao Yan, <b>Zhimeng Yin</b>, and Guang Tang, "CurveLight:An Accurate and Practical Light Positioning System",
+                in Proc. of the 17th Conference on Embedded Network Sensor Systems.<b>(Accept)</b>b></li>
               <li>[INFOCOM'20] Weiwei Chen, <b>Zhimeng Yin</b> and Tian He, "Global Cooperation for Heterogeneous Networks", 
                 in Proc. of the IEEE International Conference on Computer Communications.</li>
               <li>[SenSys'19] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints", 
