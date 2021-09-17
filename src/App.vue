@@ -16,7 +16,8 @@
           <p>Assistant Professor</p>
           <p>Department of Computer Science</p>
           <p>City University of Hong Kong</p>
-          <p>Email: yinzhimeng@gmail.com</p>
+          <p>Email: zhimeyin@cityu.edu.hk</p>
+          <p>       yinzhimeng@gmail.com</p>
         </div>
         <div class="photo">
           <img src="./assets/unnamed.jpg"/>
@@ -66,26 +67,30 @@
         </div>
         <div class="content">
           <ol class="c">
-              <li>[ICNP'21]  <b>Zhimeng Yin</b>, Kai Sun, Weiwei Chen, Shuai Wang, Zeyu Zhang, and Tian He, "Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks",
-                in Proc. of the 29th International Conference on Network Protocols.</li>
-              <li>[ICNP'20]  <b>Zhimeng Yin</b>, Bin Hu, Shuai Wang, Zhuqing Xu, and Tian He, "SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions",
-                in Proc. of the 28th International Conference on Network Protocols.</li>
-              <li>[ICDCS'20] <b>Zhimeng Yin</b>, Wenchao Jiang, Ruofeng Liu, Song Min Kim, and Tian He, "SafetyNet: Interference Protection via Transparent PHY Layer Coding", 
-                accepted by 40th IEEE International Conference on Distributed Computing Systems.</li>
-              <li>[MobiSys'18] <b>Zhimeng Yin</b>, Zhijun Li, Song Min Kim, and Tian He, "Explicit Channel Coordination via Cross-technology Communication", 
-                in proceedings of 16th Annual International Conference on Mobile Systems, Applications, and Services.<a href="https://drive.google.com/open?id=1RByIdZSEoTK78UzfN8lWLzozZXDKdXTs" target="_blank">[PDF]</a></li>
-              <li>[INFOCOM'17] <b>Zhimeng Yin</b>, Wenchao Jiang, Song Min Kim and Tian He, "C-Morse: Cross-technology communication with transparent Morse coding", 
-                in Proc. of the IEEE International Conference on Computer Communications.<a href="https://drive.google.com/open?id=1WcCAkuzyttSE6Lvp5bljeQPSM2Vjubwi" target="_blank">[PDF]</a></li>
-              <li>[INFOCOM'20] Zhuqing Xu, Junzhou Luo, <b>Zhimeng Yin</b>, Tian He, and Fang Dong, "S-MAC: Achieving High Scalability via Adaptive Scheduling in LPWAN", 
-                in Proc. of the IEEE International Conference on Computer Communications.</li>
+              <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "CurveLight:An Accurate and Practical Light Positioning System",
+               in proceedings of the 27th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3447993.3448615" target="_blank">[PDF]</a></li>
               <li>[SenSys'21] Shangyao Yan, <b>Zhimeng Yin</b>, and Guang Tang, "CurveLight:An Accurate and Practical Light Positioning System",
-                in Proc. of the 17th Conference on Embedded Network Sensor Systems.<b>(Accept)</b>b></li>
+                in Proc. of the 17th Conference on Embedded Network Sensor Systems.<b>(Accepted)</b></li>
+              <li>[ICNP'21] Kai Sun, <b>Zhimeng Yin</b>,  Weiwei Chen, Shuai Wang, Zeyu Zhang, and Tian He, "Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks",
+                in Proc. of the 29th International Conference on Network Protocols.<b>(Accepted)</b></li>
+              <li>[ICNP'20] Bin Hu, <b>Zhimeng Yin</b>, Shuai Wang, Zhuqing Xu, and Tian He, "SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions",
+              in Proc. of the 28th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9259397" target="_blank">[PDF]</a></li>
+              <li>[ICNP'20] Ruofeng Liu; <b>Zhimeng Yin</b>; Wenchao Jiang; and Tian He, "XFi: Cross-technology IoT Data Collection via Commodity WiFi",
+                in Proc. of the 28th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9259363" target="_blank">[PDF]</a></li>
+              <li>[ICDCS'20] <b>Zhimeng Yin</b>, Wenchao Jiang, Ruofeng Liu, Song Min Kim, and Tian He, "SafetyNet: Interference Protection via Transparent PHY Layer Coding", 
+                accepted by 40th IEEE International Conference on Distributed Computing Systems.<a href="https://ieeexplore.ieee.org/document/9355809" target="_blank">[PDF]</a></li>
+              <li>[INFOCOM'20] Zhuqing Xu, Junzhou Luo, <b>Zhimeng Yin</b>, Tian He, and Fang Dong, "S-MAC: Achieving High Scalability via Adaptive Scheduling in LPWAN", 
+                in Proc. of the IEEE International Conference on Computer Communications.<a href="https://ieeexplore.ieee.org/document/9155474" target="_blank">[PDF]</a></li>
               <li>[INFOCOM'20] Weiwei Chen, <b>Zhimeng Yin</b> and Tian He, "Global Cooperation for Heterogeneous Networks", 
-                in Proc. of the IEEE International Conference on Computer Communications.</li>
+                in Proc. of the IEEE International Conference on Computer Communications.<a href="https://ieeexplore.ieee.org/document/9155453" target="_blank">[PDF]</a></li>
               <li>[SenSys'19] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints", 
                 in Proc. of the 15th Conference on Embedded Network Sensor Systems.<a href="https://www.youtube.com/watch?v=ycOY9y__3bw" target="_blank">[DEMO]</a> <a href="https://drive.google.com/open?id=1YpToX-A5ObZi2xJMcViPcRtx3J21HXhi" target="_blank">[PDF]</a></li>
               <li>[ICNP'18] Shuai Wang, <b>Zhimeng Yin</b>, Zhijun Li, and Tian He, "Networking Support For Physical-Layer Cross-Technology Communication", 
                 in Proc. of the 26th International Conference on Network Protocols.<a href="https://drive.google.com/open?id=10lJS-KC6DKc8JQIHiBv2gZq-RGYXZs9f" target="_blank">[PDF]</a></li>
+              <li>[MobiSys'18] <b>Zhimeng Yin</b>, Zhijun Li, Song Min Kim, and Tian He, "Explicit Channel Coordination via Cross-technology Communication",
+              in proceedings of 16th Annual International Conference on Mobile Systems, Applications, and Services.<a href="https://drive.google.com/open?id=1RByIdZSEoTK78UzfN8lWLzozZXDKdXTs" target="_blank">[PDF]</a></li>
+              <li>[INFOCOM'17] <b>Zhimeng Yin</b>, Wenchao Jiang, Song Min Kim and Tian He, "C-Morse: Cross-technology communication with transparent Morse coding",
+              in Proc. of the IEEE International Conference on Computer Communications.<a href="https://drive.google.com/open?id=1WcCAkuzyttSE6Lvp5bljeQPSM2Vjubwi" target="_blank">[PDF]</a></li>
               <li>[SenSys'17] Wenchao Jiang, <b>Zhimeng Yin</b>, Ruofeng Liu, Zhijun Li, Song Min Kim, and Tian He, "BlueBee: a 10, 000x Faster Cross-Technology Communication via PHY Emulation", 
                 in Proc. of the 13th Conference on Embedded Network Sensor Systems.<a href="https://youtu.be/ZAtHBLRmEUs" target="_blank">[DEMO]</a> <a href="https://drive.google.com/open?id=1CxFDggwstEQVg81AMC-VYEF8v-X2Tanr" target="_blank">[PDF]</a></li>
               <li>[INFOCOM'17] Wenchao Jiang, <b>Zhimeng Yin</b>, Song Min Kim, and Tian He, "Transparent Cross-technology Communication over Data Traffic", 
@@ -165,7 +170,7 @@
         </div>
         <div class="content">
           <ul class="c">
-            <li></li>
+            <li>ICPADS 2021, Publication Chair</li>
           </ul>
         </div>
       </div>
