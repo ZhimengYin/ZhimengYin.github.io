@@ -54,7 +54,7 @@
       <div class="recruiting">
         <div class="head2">Openings</div>
         <div class="info">
-          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2022.</div>
+          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2024.</div>
         </div>
       </div>
       <div class="cv">
@@ -86,14 +86,17 @@
         </div>
         <div class="content">
           <ol class="c">
+              <li>[NSDI'24] Xiubin Fan, Zhongming Lin, Yuming Hu, Tianrui Jiang, Feng Qian, <b>Zhimeng Yin</b>, S.-H. Gary Chan, Dapeng Wu, "Passenger's Safety Matters: Experiences of Deploying a Large-Scale Indoor Delivery Monitoring System", 21st USENIX Symposium on Networked Systems Design and Implementation.</li>
+              <li>[MobiCom'23] Yuming Hu, Xiubin Fan, <b>Zhimeng Yin</b>, Feng Qian, Zhe Ji, Yuanchao Shu, Yeqiang Han, Qiang Xu, Jie Liu, Victor Bahl, "The Wisdom of 1,100 Teams: Lessons and Experiences from a Large Indoor Localization Competition", 
+                  in proceedings of the 29th Annual International Conference on Mobile Computing and Networking.<b>(Conditionally Accepted)</b></li>
               <li>[MobiCom'22] Yuming Hu, Feng Qian, <b>Zhimeng Yin</b>, Zhenhua Li, Zhe Ji, Yeqiang Han, Qiang Xu, and Wei Jiang, "Experience:Practical Indoor Localization for Malls",
-                 in proceedings of the 28th Annual International Conference on Mobile Computing and Networking.<b>(Accepted)</b></li>
-              <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "CurveLight:An Accurate and Practical Light Positioning System",
-               in proceedings of the 27th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3447993.3448615" target="_blank">[PDF]</a></li>
+                in proceedings of the 28th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3495243.3517021" target="_blank">[PDF]</a><b>(Best Community Paper Award)</b></li>
+              <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "WiBeacon: expanding BLE location-based services via wifi.",
+                in proceedings of the 27th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3447993.3448615" target="_blank">[PDF]</a></li>
               <li>[SenSys'21] Shangyao Yan, <b>Zhimeng Yin</b>, and Guang Tang, "CurveLight:An Accurate and Practical Light Positioning System",
-                in Proc. of the 17th Conference on Embedded Network Sensor Systems.<b>(Accepted)</b></li>
+                in Proc. of the 17th Conference on Embedded Network Sensor Systems.<a href="https://dl.acm.org/doi/10.1145/3485730.3485934" target="_blank">[PDF]</a></li>
               <li>[ICNP'21] Kai Sun, <b>Zhimeng Yin</b>,  Weiwei Chen, Shuai Wang, Zeyu Zhang, and Tian He, "Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks",
-                in Proc. of the 29th International Conference on Network Protocols.<b>(Accepted)</b></li>
+                in Proc. of the 29th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9651936" target="_blank">[PDF]</a></li>
               <li>[ICNP'20] Bin Hu, <b>Zhimeng Yin</b>, Shuai Wang, Zhuqing Xu, and Tian He, "SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions",
               in Proc. of the 28th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9259397" target="_blank">[PDF]</a></li>
               <li>[ICNP'20] Ruofeng Liu; <b>Zhimeng Yin</b>; Wenchao Jiang; and Tian He, "XFi: Cross-technology IoT Data Collection via Commodity WiFi",
@@ -238,7 +241,7 @@
       <div class="recruiting">
         <div class="head2">Openings</div>
         <div class="info">
-          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2022.</div>
+          <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2023.</div>
         </div>
       </div>
       <div class="cv">
@@ -270,14 +273,16 @@
         </div>
         <div class="content">
           <ol class="c">
+            <li>[MobiCom'23] Yuming Hu, Xiubin Fan, <b>Zhimeng Yin</b>, Feng Qian, Zhe Ji, Yuanchao Shu, Yeqiang Han, Qiang Xu, Jie Liu, Victor Bahl, "The Wisdom of 1,100 Teams: Lessons and Experiences from a Large Indoor Localization Competition", 
+                in proceedings of the 29th Annual International Conference on Mobile Computing and Networking. <b>(Conditionally Accepted)</b></li>
             <li>[MobiCom'22] Yuming Hu, Feng Qian, <b>Zhimeng Yin</b>, Zhenhua Li, Zhe Ji, Yeqiang Han, Qiang Xu, and Wei Jiang, "Experience:Practical Indoor Localization for Malls",
-              in proceedings of the 28th Annual International Conference on Mobile Computing and Networking.<b>(Accepted)</b></li>
-            <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "CurveLight:An Accurate and Practical Light Positioning System",
+                in proceedings of the 28th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3495243.3517021" target="_blank">[PDF]</a> <b>(Best Community Paper Award)</b></li>
+            <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He, "WiBeacon: expanding BLE location-based services via wifi.",
               in proceedings of the 27th Annual International Conference on Mobile Computing and Networking.<a href="https://dl.acm.org/doi/10.1145/3447993.3448615" target="_blank">[PDF]</a></li>
             <li>[SenSys'21] Shangyao Yan, <b>Zhimeng Yin</b>, and Guang Tang, "CurveLight:An Accurate and Practical Light Positioning System",
-              in Proc. of the 17th Conference on Embedded Network Sensor Systems.<b>(Accepted)</b></li>
+              in Proc. of the 17th Conference on Embedded Network Sensor Systems.<a href="https://dl.acm.org/doi/10.1145/3485730.3485934" target="_blank">[PDF]</a></li>
             <li>[ICNP'21] Kai Sun, <b>Zhimeng Yin</b>,  Weiwei Chen, Shuai Wang, Zeyu Zhang, and Tian He, "Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks",
-              in Proc. of the 29th International Conference on Network Protocols.<b>(Accepted)</b></li>
+              in Proc. of the 29th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9651936" target="_blank">[PDF]</a></li>
             <li>[ICNP'20] Bin Hu, <b>Zhimeng Yin</b>, Shuai Wang, Zhuqing Xu, and Tian He, "SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions",
               in Proc. of the 28th International Conference on Network Protocols.<a href="https://ieeexplore.ieee.org/document/9259397" target="_blank">[PDF]</a></li>
             <li>[ICNP'20] Ruofeng Liu; <b>Zhimeng Yin</b>; Wenchao Jiang; and Tian He, "XFi: Cross-technology IoT Data Collection via Commodity WiFi",
